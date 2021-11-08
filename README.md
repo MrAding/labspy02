@@ -26,14 +26,16 @@ print (c,'bilangan terbesar =',c)
 
 # Berikut hasil Screenshot dari Program tersebut
  
-  1. Bilangan Pertama yang menjadi bilangan terbesar. 
-  ![a](https://user-images.githubusercontent.com/46749500/52725360-a55e1980-2fe3-11e9-8140-ba85881cd548.png)
+  1. Bilangan Pertama yang menjadi bilangan terbesar.
+  <img width="960" alt="1" src="https://user-images.githubusercontent.com/93661771/140650755-8afb55a9-abf2-4abd-90e0-47cafad3d927.PNG">
 
   2. Bilangan Kedua yang menjadi bilangan terbesar
-  ![b](https://user-images.githubusercontent.com/46749500/52725549-08e84700-2fe4-11e9-922e-42f61ab23ad0.png)
+  <img width="960" alt="2" src="https://user-images.githubusercontent.com/93661771/140650961-6335c41d-380e-4e5a-8c53-a062d977af8e.PNG">
 
   3. Bilangan Ketiga yang menjadi bilangan terbesar
-  ![cc](https://user-images.githubusercontent.com/46749500/52725719-549af080-2fe4-11e9-8dc5-cdbc648c614c.png)
+  <img width="960" alt="3" src="https://user-images.githubusercontent.com/93661771/140650979-6093137f-a267-4576-832c-5dbcc63afac5.PNG">
 
-# Terima Kasih
-# ADING - TI.20.A1
+# ================================
+# NAMA  : AHMAD FADHIIL MUTTAQIN
+# NIM   : 312010615
+# KELAS : TI.20.A1

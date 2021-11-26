@@ -1,3 +1,9 @@
+```
+Nama    : Ahmad Fadhiil Muttaqin
+NIM     : 312010615
+Kelas   : TI.20.A1
+```
+
 # labspy02
 Tugas Praktikum 2
 
@@ -26,8 +32,3 @@ else :
 
   3. Bilangan Ketiga yang menjadi bilangan terbesar
   <img width="960" alt="3" src="https://user-images.githubusercontent.com/93661771/140650979-6093137f-a267-4576-832c-5dbcc63afac5.PNG">
-
-# ================================
-# NAMA  : AHMAD FADHIIL MUTTAQIN
-# NIM   : 312010615
-# KELAS : TI.20.A1
